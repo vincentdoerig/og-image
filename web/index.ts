@@ -142,13 +142,15 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'Vincent', value: 'https://cloud-35qqpw7iw.vercel.app/0vincent.svg' },
-    { text: 'Toolbox', value: 'https://cloud-amhepgj6c.vercel.app/0toolbox-black.svg' },
+    { text: 'Vincent', value: 'https://cloud-bn0ai69us.vercel.app/2vincent.svg' },
+    { text: 'Toolbox', value: 'https://cloud-bn0ai69us.vercel.app/0toolbox-black.svg' },
+    { text: 'Vincent alt', value: 'https://cloud-bn0ai69us.vercel.app/3vincent-alt.svg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
-    { text: 'Vincent', value: 'https://cloud-35qqpw7iw.vercel.app/0vincent.svg' },
-    { text: 'Toolbox', value: 'https://cloud-qkitdrect.vercel.app/0toolbox-white.svg' },
+    { text: 'Vincent', value: 'https://cloud-bn0ai69us.vercel.app/2vincent.svg' },
+    { text: 'Toolbox', value: 'https://cloud-bn0ai69us.vercel.app/1toolbox-white.svg' },
+    { text: 'Vincent alt', value: 'https://cloud-bn0ai69us.vercel.app/3vincent-alt.svg' },
 ];
 
 const widthOptions = [
